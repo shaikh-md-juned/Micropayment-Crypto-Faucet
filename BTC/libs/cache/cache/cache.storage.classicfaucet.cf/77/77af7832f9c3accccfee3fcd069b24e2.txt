@@ -1,0 +1,1 @@
+a:4:{s:5:"value";a:7:{s:2:"ip";s:13:"141.135.86.39";s:2:"os";s:6:"iPhone";s:6:"device";s:6:"mobile";s:7:"browser";s:6:"Chrome";s:3:"asn";s:6:"AS6848";s:11:"countryCode";s:2:"BE";s:5:"proxy";b:0;}s:10:"write_time";s:10:"1670671709";s:10:"expired_in";i:604800;s:12:"expired_time";i:1671276509;}
